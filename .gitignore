@@ -1,0 +1,14 @@
+target/
+*.db
+*.db-shm
+*.db-wal
+*.csv
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+.DS_Store
+Thumbs.db
+.mvn/
