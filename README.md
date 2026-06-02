@@ -58,7 +58,7 @@ This project was designed to showcase backend development and database best prac
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ticket-manager.git
+git clone https://github.com/GiovanniCabralO/ticket-manager.git
 
 # 2. Enter the project directory
 cd ticket-manager
