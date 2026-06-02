@@ -58,7 +58,7 @@ O projeto foi desenvolvido com foco em boas práticas de backend e persistência
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/ticket-manager.git
+git clone https://github.com/GiovanniCabralO/ticket-manager.git
 
 # 2. Acesse a pasta do projeto
 cd ticket-manager
